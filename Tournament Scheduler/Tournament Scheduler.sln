@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tournament Scheduler Console App", "Tournament Scheduler Console App\Tournament Scheduler Console App.csproj", "{431C330F-987D-4670-9E1B-BCE73019D99A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{431C330F-987D-4670-9E1B-BCE73019D99A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431C330F-987D-4670-9E1B-BCE73019D99A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431C330F-987D-4670-9E1B-BCE73019D99A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431C330F-987D-4670-9E1B-BCE73019D99A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F8ACF31-3022-4A9B-B807-C1C6CFCEE6AC}
+	EndGlobalSection
+EndGlobal
