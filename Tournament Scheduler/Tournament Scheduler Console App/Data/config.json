@@ -1,0 +1,57 @@
+{
+  "Config": {
+    "Style": "DoubleElimination",
+    "TeamCount": 21
+  },
+  "Facilities": [
+    {
+      "Name": "Eminence",
+      "Diamonds": [
+        {
+          "Name": "D1",
+          "Availability": [
+            { "Date": "6/1/2023 6:00 PM" },
+            { "Date": "6/1/2023 8:00 PM" }
+          ]
+        },
+        {
+          "Name": "D2",
+          "Availability": [
+            { "Date": "6/1/2023 6:00 PM" },
+            { "Date": "6/1/2023 8:00 PM" }
+          ]
+        },
+        {
+          "Name": "D3",
+          "Availability": [
+            { "Date": "6/1/2023 6:00 PM" }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Cloverdale",
+      "Diamonds": [
+        {
+          "Name": "D1",
+          "Availability": [
+            { "Date": "6/1/2023 6:00 PM" },
+            { "Date": "6/1/2023 8:00 PM" }
+          ]
+        },
+        {
+          "Name": "D2",
+          "Availability": [
+            { "Date": "6/1/2023 6:00 PM" },
+          ]
+        },
+        {
+          "Name": "D3",
+          "Availability": [
+            { "Date": "6/1/2023 6:00 PM" }
+          ]
+        }
+      ]
+    }
+  ]
+}
